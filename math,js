@@ -1,0 +1,5 @@
+var price = 23;
+var age = 11;
+var temperature =35;
+var person ="sodor uddin";
+var location ="Bandarban"; 
